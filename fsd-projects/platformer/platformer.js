@@ -42,9 +42,9 @@ createCollectable('max',400,200)
 createCollectable('diamond',300,100)
     
     // TODO 4 - Create Cannons
-
-
-    
+createCannon("right",300,1000)
+createCannon("bottom",700,550)
+createCannon("top",400,1050)
     
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
